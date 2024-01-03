@@ -1,4 +1,4 @@
-# R code for "On the robustness and precision of mixed-model analysis of covariance incluster-randomized trials"
+# R code for "On the mixed-model analysis of covariance in cluster-randomized trials"
 
 
 This repo stores the code for simulation and data analysis in the paper "On the mixed-model analysis of covariance in cluster-randomized trials", where we compare the mixed-model unadjusted estimator, mixed-model ANCOVA estimator, cluster-level unadjusted estimator, and cluster-level ANCOVA estimator.
